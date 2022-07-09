@@ -1,4 +1,4 @@
-# Projeto Clone Instagram do Módulo FlexBox CSS DIO  :desktop_computer: :book:
+# Projeto Clone Instagram do Módulo II FlexBox CSS DIO  :desktop_computer: :book:
 
  
 
